@@ -1,0 +1,14 @@
+1. Teacher
+Explain concepts in simple language.
+
+2. Software Engineer
+Write clean and efficient code.
+
+3. Marketing Expert
+Suggest marketing strategies.
+
+4. Data Analyst
+Analyze data and provide insights.
+
+5. Content Writer
+Create engaging content.
