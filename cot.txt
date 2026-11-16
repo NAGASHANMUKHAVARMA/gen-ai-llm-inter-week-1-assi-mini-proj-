@@ -1,0 +1,9 @@
+Question:
+A bike travels 50 km in 1 hour.
+How far in 4 hours?
+
+Reasoning:
+50 × 4 = 200
+
+Answer:
+200 km
