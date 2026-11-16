@@ -1,0 +1,11 @@
+Text:
+Generative AI is amazing
+
+BPE:
+Generative | AI | is | amazing
+
+WordPiece:
+Generate | ##tive | AI | is | amazing
+
+SentencePiece:
+▁Generative ▁AI ▁is ▁amazing
